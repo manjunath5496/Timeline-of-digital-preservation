@@ -13,7 +13,7 @@
 <li><a href="#course12">History and Anthropology of Medicine and Biology</a></li>
 <li><a href="#course13">Introduction to the History of Technology</a></li>
  <li><a href="#course14">Godzilla and the Bullet Train: Technology and Culture in Modern Japan</a></li>
-<li><a href="#course15">Chemical Investigations of Boston Harbor</a></li> 
+<li><a href="#course15">Engineering Apollo: The Moon Project as a Complex System</a></li> 
  <li><a href="#course16">Science and Policy of Natural Hazards</a></li>  
    <li><a href="#course17">Strange Bedfellows: Science and Environmental Policy</a></li> 
   <li><a href="#course18">Structure of Earth Materials</a></li> 
@@ -1036,3 +1036,152 @@
 </tbody>
 </table>
 </br>
+<h2 id="course15">Engineering Apollo: The Moon Project as a Complex System</h2>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">STUDENT NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction and overview</td>
+<td>(<a href="2/lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Apollo as a complex system</td>
+<td>(<a href="2/lec02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Historical/technical analysis of engineering systems</td>
+<td>(<a href="2/lec03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Systems engineering and atlas</td>
+<td>(<a href="2/lec04.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Organizing research from NACA to NASA</td>
+<td>(<a href="2/lec05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Sputnik, Mercury, and the Cold War</td>
+<td>(<a href="2/lec06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Kennedy's decision: From politics to engineering specs</td>
+<td>(<a href="2/lec07.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The LOR decision</td>
+<td>(<a href="2/lec08.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The Soviet moon program</td>
+<td>(<a href="2/lec09.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Gemini and early Apollo engineering</td>
+<td>(<a href="2/lec10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Apollo guidance and control</td>
+<td>(<a href="2/lec11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Astronautical guidance</td>
+<td>(<a href="2/lec12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Engineering the LEM</td>
+<td>(<a href="2/lec13.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Designing a landing</td>
+<td>(<a href="2/lec14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>NASA's current moon plans</td>
+<td>(<a href="2/lec15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>
+<p>Apollo software</p>
+<p>Presentation by Doug Cooke of NASA (<a href="2/16nasa_cooke.pdf">PDF - 1.8 MB</a>)&nbsp;</p>
+</td>
+<td>(<a href="2/lec16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Apollo 11</td>
+<td>(<a href="2/lec17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Apollo 14: An astronaut's view</td>
+<td>(<a href="2/lec18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Apollo 12 and group project freetime</td>
+<td>(<a href="2/lec19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Covering Apollo: The role of the press</td>
+<td>(<a href="2/lec20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Life support and human factors I (<a href="2/22young.pdf">PDF - 1.4 MB</a>)</td>
+<td>(<a href="2/lec21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Bob Parker: Scientist-astronauts and lunar science</td>
+<td>(<a href="2/lec22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Student presentations</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Student presentations wrap-up</td>
+<td>(<a href="2/lec24.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>MIT museum trip</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Final class</td>
+<td>(<a href="2/lec26.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p>Report on&nbsp;<em>Moon Lander: How We Developed the Apollo Lunar Module</em>&nbsp;by Anonymous (<a href="2/book_review.pdf">PDF</a>)</p>
+<p>Report on&nbsp;<em>Dark Side of the Moon</em>&nbsp;by Chris Bachmann (<a href="2/bok_rev_bachmann.pdf">PDF</a>)</p>
+<p>Report on&nbsp;<em>Journey to the Moon: The History of the Apollo Guidance Computer</em>&nbsp;by Brittany Baker (<a href="2/bok_rev_baker.pdf">PDF</a>)</p>
+<p>Report on&nbsp;<em>Apollo, The Race to the Moon</em>&nbsp;by Gautier Brunet (<a href="2/bok_rev_brunet.pdf">PDF</a>)</p>
+<p>Report on&nbsp;<em>Flight: My Life in Mission Control</em>&nbsp;by Amy Brzezinski (<a href="2/bok_rev_brzezins.pdf">PDF</a>)</p>
+<p>Report on&nbsp;<em>First on the Moon: A voyage to the Moon</em>&nbsp;by Melanie Chin (<a href="2/bok_rev_chin.pdf">PDF</a>)</p>
+<p>Report on&nbsp;<em>Two Sides of the Moon</em>&nbsp;by Lucy Cohan (<a href="2/bok_rev_cohan.pdf">PDF</a>)</p>
+<p>Report on&nbsp;<em>Rocket Dreams</em>&nbsp;by Phillip M. Cunio (<a href="2/bok_rev_cunio.pdf">PDF</a>)</p>
+<p>Report on&nbsp;<em>Carrying the Fire: An Astronaut's Journeys</em>&nbsp;by Elizabeth Deems (<a href="2/bok_rev_deems.pdf">PDF</a>)</p>
+<p>Report on&nbsp;<em>The Decision to Go to the Moon</em>&nbsp;by Christine Edwards (<a href="2/bok_rev_edwards.pdf">PDF</a>)</p>
+<p>Report on&nbsp;<em>The Decision to Go to the Moon</em>&nbsp;by Christine Fanchiang (<a href="2/bok_rev_fanchian.pdf">PDF</a>)</p>
+<p>Report on&nbsp;<em>We Reach the Moon</em>&nbsp;by Alissa Friedman (<a href="2/bok_rev_friedman.pdf">PDF</a>)</p>
+<p>Report on&nbsp;<em>Apollo: The Epic Journey to the Moon</em>&nbsp;by Fred Gay (<a href="2/bok_rev_gay.pdf">PDF</a>)</p>
+<p>Report on&nbsp;<em>The Reluctant Space-Farers: A Study in the Politics of Discovery</em>&nbsp;by Dan Gillespie (<a href="2/bok_rev_gillespi.pdf">PDF</a>)</p>
+<p>Report on&nbsp;<em>Flight</em>&nbsp;by Hudson Graham (<a href="2/bok_rev_graham.pdf">PDF</a>)</p>
+<p>Report on&nbsp;<em>The Secret of Apollo - Systems Management in American and European Space Programs</em>&nbsp;by Zahra Khan (<a href="2/bok_rev_khan.pdf">PDF</a>)</p>
+<p>Report on&nbsp;<em>Space Age Management: The Large Scale Approach</em>&nbsp;(<a href="2/Apollo_Lunar_surface_journals.pdf">PDF</a>)</p>
+<p>Report on&nbsp;<em>Single Stage to Orbit Review</em>&nbsp;by Ryan McLinko (<a href="2/bok_rev_mclinko.pdf">PDF</a>)</p>
+<p>Report on&nbsp;<em>Tracking Apollo to the Moon</em>&nbsp;by Rebecca Myers (<a href="2/bok_rev_myers.pdf">PDF</a>)</p>
+<p>Report on&nbsp;<em>Failure is not an Option</em>&nbsp;by Jennifer Needham (<a href="2/bok_rev_needham.pdf">PDF</a>)</p>
+<p>Report on&nbsp;<em>Men From Earth</em>&nbsp;by Robert Panish (<a href="2/bok_rev_panish.pdf">PDF</a>)</p>
+<p>Report on&nbsp;<em>Two Sides of the Moon</em>&nbsp;by Jaime Pereira de Mateus (<a href="2/bok_rev_pereira.pdf">PDF</a>)</p>
+<p>Report on&nbsp;<em>Of a Fire on the Moon</em>&nbsp;by Ben Renkoski (<a href="2/bok_rep_renkoski.pdf">PDF</a>)</p>
+<p>Report on&nbsp;<em>NASA and the Space Industry</em>&nbsp;by Zoe Szajnfarber (<a href="2/bok_rev_szajnfar.pdf">PDF</a>)</p>
+<p>Report on&nbsp;<em>A Man on the Moon</em>&nbsp;by Namiko Yamamoto (<a href="2/bok_rev_yamamoto.pdf">PDF</a>)</p>
+<p>Crimson Team Report by Friedman, Gay, Leybovich, Yamamoto, Brzezinski, Graham, Needham, Baker, Brunet, Houghton, Bachmann, Fanchiang, Gillespie, and Panish (<a href="2/crimsonteam.pdf">PDF - 1.1 MB</a>)</p>
+<p>Gray Team Report by Bryan Gardner, Wilfried Hofstetter, Ryan McLinko, Lucy Cohan, Swati Mohan, Rebecca Myers, Ben Renkoski, Tatsuya Arai, Melanie Chin, Elizabeth Deems, Jaime Mateus, Phillip Cunio, Christine Edwards, Carl Engel, and Zahra Khan (<a href="2/grayteam.pdf">PDF - 6.1 MB</a>)</p>
+</br>
+
+
