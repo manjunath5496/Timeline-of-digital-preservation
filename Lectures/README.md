@@ -12,7 +12,7 @@
 <li><a href="#course11">Technology and Innovation in Africa</a></li>
 <li><a href="#course12">History and Anthropology of Medicine and Biology</a></li>
 <li><a href="#course13">Introduction to the History of Technology</a></li>
- <li><a href="#course14">Trace Element Analysis of Geological, Biological & Environmental Materials by Neutron Activation Analysis: An Exposure</a></li>
+ <li><a href="#course14">Godzilla and the Bullet Train: Technology and Culture in Modern Japan</a></li>
 <li><a href="#course15">Chemical Investigations of Boston Harbor</a></li> 
  <li><a href="#course16">Science and Policy of Natural Hazards</a></li>  
    <li><a href="#course17">Strange Bedfellows: Science and Environmental Policy</a></li> 
@@ -1006,8 +1006,33 @@
 </table>
 </br>
 
+<h2 id="course14">Godzilla and the Bullet Train: Technology and Culture in Modern Japan</h2>
 
 
-
-
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">STUDENT&nbsp;WORK</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Reading Maps and Defining Technology (<a href="2/assignment2.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Response Paper 1 (<a href="2/response_paper_1.pdf">PDF</a>)</td>
+<td>Anonymous (<a href="2/student_respons1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Response Paper 2 (<a href="2/response_paper_2.pdf">PDF</a>)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Response Paper&nbsp;3&nbsp;(<a href="2/studyguide.pdf">PDF</a>)</td>
+<td>Katherine Han (<a href="2/student_respons2.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
