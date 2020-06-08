@@ -1,5 +1,5 @@
 <ul>
-<li><a href="#course1">Introduction to Geology</a></li>
+<li><a href="#course1">Technology in American History</a></li>
 <li><a href="#course2">Physics and Chemistry of the Terrestrial Planets</a></li>
 <li><a href="#course3">Applications of Continuum Mechanics to Earth, Atmospheric, and Planetary Sciences</a></li>
 <li><a href="#course4">Geobiology</a></li>
@@ -68,4 +68,129 @@
  
 </ul>
 <p>&nbsp;</p>
-<h2 id="course1">Introduction to Geology</h2>
+<h2 id="course1">Technology in American History</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>What is Technology?</td>
+<td>What is Technology? (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="02_13.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Technologies of Colonization and Conquest</td>
+<td>Technology in Colonial America (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="02_15.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Crafts and Craftsmanship in Early America</td>
+<td>Crafts and Craftsmanship in Early America (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="02_21.pdf">PDF</a>)<br /><br />Discussion of Film&nbsp;<em>The Gunsmith of Williamsburg</em>&nbsp;(<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="02_21_gunsmith.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Paul Revere: Technologist?<br /><br />Guest Speaker: Prof. Rob Martello (Olin College)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Politics and Early American Industrialization</td>
+<td>Technology and Nationalism, 1789-1825 (<a href="02_27.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The Role of the State in Early American Industry</td>
+<td>From Swords to Ploughshares: The Development of Interchangeable Parts, 1798-1850 (<a href="03_01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Social and Political Implications of the New Technology</td>
+<td>Technology and Politics (<a href="03_06.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The Transportation and Communications Revolution<br /><br />First Reading Quiz</td>
+<td>'System/Order/Uniformity': Army Engineers and the Rise of Modern Management (<a href="03_08.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Art and Industrialization</td>
+<td>The Railroad as a Technological Symbol in American Art (<a href="03_13.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The Emerging Culture of Engineering in America</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Technology in the Civil War Era</td>
+<td>Technology, Civil War, and the War's Larger Implications (<a href="03_20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Technology in the Civil War Era (cont.)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Human Machines? Frederick W. Taylor and the Rise of Scientific Management</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Automobility and Mass Production</td>
+<td>"Henry Ford and the Advent of Mass Production" (<img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="04_05.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Second Reading Quiz</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Mass Production</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Hobbyist Worlds and Technological Enthusiasm in Modern America<br /><br />Guest Speaker: Kieran Downes (MIT)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Aeronautics and the Systems Approach<br /><br />Guest Speaker: Dr. Deborah Douglas (MIT Museum)</td>
+<td>Guest lecture by Dr. Deborah Douglas, MIT Museum. (<a href="04_24_outline.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Technology and Art at the Apex of the Machine Age</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>World War II: A Technological Turning Point?<br /><br />Guest Speaker: Dr. Brendan Foley (Woods Hole Oceanographic Institute)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>World War II: A Technological Turning Point? (cont.)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>A New World: Technology in Cold War America</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Computers and Control: The Apollo Program<br /><br />Guest Speaker: Sandy Brown (MIT)</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Nature's Revenge: Technology and the Environment</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>The Brave New World of Biotechnology<br /><br />Guest Speaker: Victor McElheny (MIT Knight Fellows Program)</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+   </br>
+
+
+
+
+
+
+
+
+
