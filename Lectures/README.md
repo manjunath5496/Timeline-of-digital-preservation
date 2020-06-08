@@ -6,7 +6,7 @@
 <li><a href="#course5">American Science: Ethical Conflicts and Political Choices</a></li>
 <li><a href="#course6">Science Communication: A Practical Guide</a></li>
 <li><a href="#course7">The History of Computing</a></li>
-<li><a href="#course8">Modeling Environmental Complexity</a></li>
+<li><a href="#course8">Technology and Nature in American History</a></li>
 <li><a href="#course9">The Environment of the Earth's Surface</a></li>
 <li><a href="#course10">Introduction to Fluid Motions, Sediment Transport, and Current-Generated Sedimentary Structures </a></li>
 <li><a href="#course11">Basics of Impact Cratering & Geological, Geophysical, Geochemical, Environmental Studies of Some Impact Craters of the Earth</a></li>
@@ -726,4 +726,49 @@
 </br>
 <h3 class="subsubhead">Sample Final Paper</h3>
 <p>Anthony Ronald Grue (<a href="1/anthony_final.pdf">PDF</a>)</p>
+</br>
+<h2 id="course8">Technology and Nature in American History</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;OUTLINES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>A brief history of ecological change in North America in the eighteenth century</td>
+<td>(<a href="1/wk2_outline.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Imposing an industrial order on the antebellum landscape</td>
+<td>(<a href="1/wk4_outline.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>"Devilish iron horse" and "Aeolian harp": artistic responses to industrialization</td>
+<td>(<a href="1/wk5_outline.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Conservation and the scientific management of nature</td>
+<td>(<a href="1/wk9_outline.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Levittown and the building of the suburban family ideal</td>
+<td>(<a href="1/wk12_outline.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>How food became fast, or, industrial agriculture in the twentieth century</td>
+<td>(<a href="1/wk13_outline.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+<p>Guidelines (<a href="1/response_guide.pdf">PDF</a>)</p>
+<p>Sample (<a href="1/response_sample.pdf">PDF</a>)</p>
+<h3 class="subsubhead">&nbsp;</h3>
+<p>Paper 1: Mapping your daily life (<a href="1/paper1.pdf">PDF</a>)</p>
+<p>Paper 2: Comparative analytical essay (<a href="1/paper2.pdf">PDF</a>)<br />Sample analytical paragraph (<a href="1/sample_analytica.pdf">PDF</a>)</p>
+<p>Final paper: Original historical research (<a href="1/paper_final.pdf">PDF</a>)<br />Exemplary final paper: "Effects of Pollution in the Hudson River on Commerce" by John Hawkinson (<a href="1/jhawk_hudson.pdf">PDF</a>)&nbsp;</p>
 </br>
