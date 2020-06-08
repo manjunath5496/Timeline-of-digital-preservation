@@ -1,7 +1,7 @@
 <ul>
 <li><a href="#course1">Technology in American History</a></li>
 <li><a href="#course2">The Rise of Modern Science</a></li>
-<li><a href="#course3">Applications of Continuum Mechanics to Earth, Atmospheric, and Planetary Sciences</a></li>
+<li><a href="#course3">Disease and Society in America</a></li>
 <li><a href="#course4">Geobiology</a></li>
 <li><a href="#course5">Theoretical Environmental Analysis</a></li>
 <li><a href="#course6">Computational Methods of Scientific Programming</a></li>
@@ -368,6 +368,93 @@
 
 </br>
 
+<h2 id="course3">Disease and Society in America</h2>
 
-
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction: Disease, Medicine, and Society (<a href="intro_dis_med.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>Health and Disease Before Columbus (<a href="hel_dis_bef_col.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Virgin Soil Epidemics (<a href="lec_3.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>The Health of Colonists (<a href="lec_4.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Disease and the Environment (<a href="lec_5.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>Urbanization and Public Health (<a href="lec_6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The Decline of Tuberculosis (<a href="lec_7.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>Epidemiological Transitions and Health Disparities (<a href="lec_8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The Determinants of Health and Disease (<a href="lec_9.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>Debate: Disease History and Health Policy (<a href="lec_10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>American Indian Medicine (<a href="lec_11.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>Colonial Medical Theory and Practice (<a href="lec_12.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Inoculation and Vaccination (<a href="lec_13.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>Self Help and Heroic Medicine (<a href="lec_14.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Medical Education (<a href="lec_15.pdf">PDF</a>)</td>
+</tr>
+<tr>
+<td>The Rise of Hospitals (<a href="lec_16.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Race, Gender, and Medicine (<a href="lec_17.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Psychiatry and Mental Health (<a href="lec_18.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Anesthesia and the Rise of Surgery (<a href="lec_19.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Germ Theory and the Therapeutic Revolution (<a href="lec_20.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Public Health Politics I: Plague in Chinatown (<a href="lec_21.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Medical Technology and the Modern Hospital (<a href="lec_22.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Specialization and Medical Education (<a href="lec_23.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Public Health Politics II: HIV/AIDS (<a href="lec_24.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Health Care Policy: Access and Cost (<a href="lec_25.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Disease and Society in the 21st Century (<a href="lec_26.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
