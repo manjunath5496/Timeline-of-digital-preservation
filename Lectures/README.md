@@ -11,7 +11,7 @@
 <li><a href="#course10">Innovation Systems for Science, Technology, Energy, Manufacturing, and Health </a></li>
 <li><a href="#course11">Technology and Innovation in Africa</a></li>
 <li><a href="#course12">History and Anthropology of Medicine and Biology</a></li>
-<li><a href="#course13">Medical Geology/Geochemistry: An Exposure</a></li>
+<li><a href="#course13">Introduction to the History of Technology</a></li>
  <li><a href="#course14">Trace Element Analysis of Geological, Biological & Environmental Materials by Neutron Activation Analysis: An Exposure</a></li>
 <li><a href="#course15">Chemical Investigations of Boston Harbor</a></li> 
  <li><a href="#course16">Science and Policy of Natural Hazards</a></li>  
@@ -975,3 +975,39 @@
 
 <p><a href="MITSTS_330S13_BolmModePigs.pdf">Bolman, Bradley G. The Pigs That Therefore We Are: Anatomy, Biology, and Transplantation (PDF)</a></p>
 </br>
+<h2 id="course13">Introduction to the History of Technology</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<tbody>
+<tr>
+<th scope="col">PAPERS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="row">
+<td>Review of Hoddeson &amp; Riordan's&nbsp;<em>Crystal Fire: The Birth of the Information Age</em>&nbsp;(<a href="1/fox_crystalfire.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Modernist Visions: Reviews of Hughes'&nbsp;<em>American Genesis</em>&nbsp;and Wohl's&nbsp;<em>A Passion for Wings</em>&nbsp;(<a href="1/ginsburg_modrnst.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Computing: Review of Black's&nbsp;<em>IBM and the Holocaust</em>&nbsp;(<a href="1/ginsburg_computg.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Review of Kern's&nbsp;<em>The Culture of Time and Space</em>&nbsp;(<a href="1/lmesseri1.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Review of Fritzsche's&nbsp;<em>A Nation of Fliers</em>&nbsp;(<a href="1/lmesseri2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Review of Waldrop's&nbsp;<em>The Dream Machine</em>&nbsp;(<a href="1/lmesseri3.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+
+
+
+
