@@ -4,7 +4,7 @@
 <li><a href="#course3">Disease and Society in America</a></li>
 <li><a href="#course4">Evolution and Society</a></li>
 <li><a href="#course5">American Science: Ethical Conflicts and Political Choices</a></li>
-<li><a href="#course6">Computational Methods of Scientific Programming</a></li>
+<li><a href="#course6">Science Communication: A Practical Guide</a></li>
 <li><a href="#course7">Seminar in Environmental Science</a></li>
 <li><a href="#course8">Modeling Environmental Complexity</a></li>
 <li><a href="#course9">The Environment of the Earth's Surface</a></li>
@@ -614,5 +614,32 @@
 </tbody>
 </table>
 </br>
+<h2 id="course6">Science Communication: A Practical Guide</h2>
 
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Introduction: Why Be A Science Communicator?</td>
+<td>(<a href="MITSTS_034F11_lec_01.pdf">PDF - 1.1MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>In the Elevator or the Hallway: Talking Informally About Science</td>
+<td>(<a href="MITSTS_034F11_lec_02.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>What Does It Mean to Write About Science for the Public?</td>
+<td>(<a href="MITSTS_034F11_lec_03.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Telling a Tale, Painting a Picture: Writing About Science Using Special Techniques</td>
+<td>(<a href="MITSTS_034F11_lec_05.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
