@@ -3,7 +3,7 @@
 <li><a href="#course2">The Rise of Modern Science</a></li>
 <li><a href="#course3">Disease and Society in America</a></li>
 <li><a href="#course4">Evolution and Society</a></li>
-<li><a href="#course5">Theoretical Environmental Analysis</a></li>
+<li><a href="#course5">American Science: Ethical Conflicts and Political Choices</a></li>
 <li><a href="#course6">Computational Methods of Scientific Programming</a></li>
 <li><a href="#course7">Seminar in Environmental Science</a></li>
 <li><a href="#course8">Modeling Environmental Complexity</a></li>
@@ -580,6 +580,36 @@
 <tr class="alt-row">
 <td>The Revival of Darwinism After 1900</td>
 <td><img src="inacessible.gif" alt="This resource may not render correctly in a screen reader." /><a href="MITSTS_009S12_lec18.pdf">Lecture 18 (PDF - 1.3MB)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+<h2 id="course5">American Science: Ethical Conflicts and Political Choices</h2>
+
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>World War II: Hiroshima, Nagasaki (<a href="lec2.pdf">PDF - 5.6 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Science, military research, and the national security state (<a href="lec4_kaiser.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Military influence on American science (<a href="lec5.pdf">PDF - 3.3 MB</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Space program: Challenger and Columbia (<a href="lec8_hoffman.pdf">PDF - 2.0 MB</a>)&nbsp;</td>
+</tr>
+<tr class="row">
+<td>Climate change research (<a href="lec19_curry.pdf">PDF - 1.0 MB</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td>Alternatives to fossil fuels (<a href="lec20_capewind.pdf">PDF - 3.3 MB</a>)&nbsp;</td>
 </tr>
 </tbody>
 </table>
