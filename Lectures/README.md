@@ -14,7 +14,7 @@
 <li><a href="#course13">Introduction to the History of Technology</a></li>
  <li><a href="#course14">Godzilla and the Bullet Train: Technology and Culture in Modern Japan</a></li>
 <li><a href="#course15">Engineering Apollo: The Moon Project as a Complex System</a></li> 
- <li><a href="#course16">Science and Policy of Natural Hazards</a></li>  
+ <li><a href="#course16">Cultural History of Technology</a></li>  
    <li><a href="#course17">Strange Bedfellows: Science and Environmental Policy</a></li> 
   <li><a href="#course18">Structure of Earth Materials</a></li> 
  <li><a href="#course19">Petrology</a></li>  
@@ -1184,4 +1184,52 @@
 <p>Gray Team Report by Bryan Gardner, Wilfried Hofstetter, Ryan McLinko, Lucy Cohan, Swati Mohan, Rebecca Myers, Ben Renkoski, Tatsuya Arai, Melanie Chin, Elizabeth Deems, Jaime Mateus, Phillip Cunio, Christine Edwards, Carl Engel, and Zahra Khan (<a href="2/grayteam.pdf">PDF - 6.1 MB</a>)</p>
 </br>
 
+<h2 id="course16">Cultural History of Technology</h2>
+
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>What is "Technology" in the Contemporary World? (<a href="2/notes_050201_1.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The Context of Classical and Early Modern Philosophy (<a href="2/notes_050208_2.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>The Enlightenment and the Belief in Progress (<a href="2/notes_050215_3.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The Romantic Reaction</td>
+</tr>
+<tr class="row">
+<td>The Novel (<a href="2/notes_050308_5.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The Marxist Critique of Capitalism (<a href="2/notes_050315_6.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Culture: High v. Low; Traditional v. Democratic (<a href="2/notes_050329_7.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Systems and Networks (<a href="2/notes_050405_8.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Modernism: Socio-Economic and Aesthetic (<a href="2/notes_050412_9.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Engineering: Mentality, Vocation, Institution (<a href="2/notes_050426_10.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Ecological Crisis (<a href="2/notes_050503_11.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>What Made "Technology" Necessary? (<a href="2/notes_050510_12.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
 
