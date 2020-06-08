@@ -9,7 +9,7 @@
 <li><a href="#course8">Technology and Nature in American History</a></li>
 <li><a href="#course9">Drugs, Politics, and Culture</a></li>
 <li><a href="#course10">Innovation Systems for Science, Technology, Energy, Manufacturing, and Health </a></li>
-<li><a href="#course11">Basics of Impact Cratering & Geological, Geophysical, Geochemical, Environmental Studies of Some Impact Craters of the Earth</a></li>
+<li><a href="#course11">Technology and Innovation in Africa</a></li>
 <li><a href="#course12">Radon Research in Multidisciplines: A Review</a></li>
 <li><a href="#course13">Medical Geology/Geochemistry: An Exposure</a></li>
  <li><a href="#course14">Trace Element Analysis of Geological, Biological & Environmental Materials by Neutron Activation Analysis: An Exposure</a></li>
@@ -929,5 +929,45 @@
 
 </br>
 
+<h2 id="course11">Technology and Innovation in Africa</h2>
 
-
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">LECTURE&nbsp;NOTES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td><a href="1/MITSTS_089F14_Lecture4.pdf">Food Production in Africa (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MITSTS_089F14_Lecture5.pdf">Textiles (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MITSTS_089F14_Lecture8.pdf">Music (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MITSTS_089F14_Lecture10.pdf">The Crafts of Witches (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MITSTS_089F14_Lecture11.pdf">Mining &amp; Metallurgy (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MITSTS_089F14_Lecture12.pdf">African Entrepreneurship (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MITSTS_089F14_Lecture13.pdf">Pre-Colonial African Cities (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MITSTS_089F14_Lecture17.pdf">Leadership &amp; Culture (PDF)</a></td>
+</tr>
+<tr class="row">
+<td><a href="1/MITSTS_089F14_Lecture21.pdf">Bibles (PDF)</a></td>
+</tr>
+<tr class="alt-row">
+<td><a href="1/MITSTS_089F14_Lecture22.pdf">Books &amp; Letters (PDF)</a></td>
+</tr>
+</tbody>
+</table>
+</br>
