@@ -15,55 +15,9 @@
  <li><a href="#course14">Godzilla and the Bullet Train: Technology and Culture in Modern Japan</a></li>
 <li><a href="#course15">Engineering Apollo: The Moon Project as a Complex System</a></li> 
  <li><a href="#course16">Cultural History of Technology</a></li>  
-   <li><a href="#course17">Strange Bedfellows: Science and Environmental Policy</a></li> 
+   <li><a href="#course17">Social and Political Implications of Technology</a></li> 
   <li><a href="#course18">Structure of Earth Materials</a></li> 
- <li><a href="#course19">Petrology</a></li>  
-   <li><a href="#course20">Sedimentary Geology</a></li> 
-  <li><a href="#course21">Structural Geology</a></li> 
- <li><a href="#course22">Analytical Techniques for Studying Environmental and Geologic Samples</a></li>  
-   <li><a href="#course23">Electron Microprobe Analysis</a></li> 
-  <li><a href="#course24">Molecular Biogeochemistry</a></li> 
- <li><a href="#course25">Surface Processes and Landscape Evolution</a></li>  
-   <li><a href="#course26">Essentials of Geophysics</a></li> 
-   <li><a href="#course27">Modern Navigation</a></li> 
-  <li><a href="#course28">Climate Physics and Chemistry</a></li> 
- <li><a href="#course29">Atmospheric Physics and Chemistry</a></li>  
-   <li><a href="#course30">Atmospheric and Ocean Circulations</a></li> 
- <li><a href="#course31">Experimental Atmospheric Chemistry</a></li>  
-   <li><a href="#course32">Global Warming Science</a></li> 
-<li><a href="#course33">Hands-On Astronomy: Observing Stars and Planets</a></li>  
-   <li><a href="#course34">Extrasolar Planets: Physics and Detection Techniques</a></li> 
-   <li><a href="#course35">Oral Communication in the Earth, Atmospheric, and Planetary Sciences</a></li> 
-  <li><a href="#course36">Crosby Lectures in Geology: History of Africa</a></li> 
- <li><a href="#course37">Trace-Element Geochemistry</a></li>  
-   <li><a href="#course38">Thermodynamics for Geoscientists</a></li> 
- <li><a href="#course39">Non-conventional Light Stable Isotope Geochemistry</a></li>  
-   <li><a href="#course40">Introduction to Seismology</a></li> 
-  <li><a href="#course41">Geodynamics</a></li> 
- <li><a href="#course42">Mechanical Properties of Rocks</a></li>  
-   <li><a href="#course43">Principles of the Global Positioning System</a></li> 
- <li><a href="#course44">Seminar in Geophysics: Thermal and Chemical Evolution of the Earth</a></li>  
-   <li><a href="#course45">Structure and Dynamics of the CMB Region</a></li> 
-   <li><a href="#course46">Seminar in Geophysics: Mantle Convection</a></li> 
-  <li><a href="#course47">Modeling Environmental Complexity</a></li> 
- <li><a href="#course48">Paleoceanography</a></li>  
-   <li><a href="#course49">Marine Chemistry</a></li> 
- <li><a href="#course50">Fluid Dynamics of the Atmosphere and Ocean</a></li>  
-   <li><a href="#course51">Wave Motion in the Ocean and the Atmosphere</a></li> 
-   <li><a href="#course52">Quasi-Balanced Circulations in Oceans and Atmospheres</a></li> 
- <li><a href="#course53">Atmospheric Chemistry</a></li>  
-   <li><a href="#course54">Introduction to Observational Physical Oceanography</a></li> 
-    <li><a href="#course55">Dynamics of the Atmosphere</a></li> 
-   <li><a href="#course56">Tropical Meteorology</a></li> 
- <li><a href="#course57">General Circulation of the Earth's Atmosphere</a></li>  
-   <li><a href="#course58">Atmospheric Radiation</a></li> 
-  <li><a href="#course59">Turbulence in the Ocean and Atmosphere</a></li>  
-   <li><a href="#course60">Climate Physics and Chemistry</a></li> 
-  <li><a href="#course61">GPS: Where Are You?</a></li>  
-   <li><a href="#course62">Inference from Data and Models</a></li> 
-  <li><a href="#course63">Quantifying Uncertainty</a></li>  
-   <li><a href="#course64">Atmospheric and Oceanic Modeling</a></li> 
- 
+
  
  
 </ul>
@@ -1232,4 +1186,42 @@
 </tbody>
 </table>
 </br>
+<h2 id="course17">Social and Political Implications of Technology</h2>
+<table class="tablewidth50" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">STUDENT&nbsp;PAPERS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Cronon, William.&nbsp;<em>Nature's Metropolis.</em></td>
+<td>
+<p>Kieran Downes (<a href="2/metropolis_kd.pdf">PDF</a>)</p>
+<p>Michael Rossi (<a href="2/metropolis_mr.pdf">PDF</a>)</p>
+<p>Rachel Wellhausen (<a href="2/metropolis_rw.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Aitken, Hugh.&nbsp;<em>Taylorism at the Watertown Arsenal.</em></td>
+<td>
+<p>Kieran Downes (<a href="2/taylorism_kd.pdf">PDF</a>)</p>
+<p>David Unger (<a href="2/taylorism_du.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>MacKenzie, Donald.&nbsp;<em>Inventing Accuracy.</em></td>
+<td>
+<p>Kieran Downes (<a href="2/accuracy_kd.pdf">PDF</a>)</p>
+<p>Yanni Loukissas (<a href="2/accuracy_yl.pdf">PDF</a>)</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+</br>
+
+
+
 
