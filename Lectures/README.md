@@ -831,4 +831,46 @@
 </tbody>
 </table>
 </br>
-
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">PAPER TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>"Why in Baseball is Using Steroids Considered Cheating?" (<a href="1/baseball.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>"How to Improve the National Drug Control Strategy to Win the War on Drugs" (<a href="1/drugs.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>"Methamphetamine: Dangerous Drug Craze and Toxic Pollutant" (<a href="1/meth.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>"Truth or DARE?" (<a href="1/truth_dare.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>"Comparison of Exchange Students' Views of the Drinking Culture of MIT and Cambridge" (<a href="1/exchnge_students.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>"Emergency Contraception and Refusal Clauses: A Threat to Women" (<a href="1/emergency.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>"Rights of Pharmacists versus the Rights of Women: The Morning-After Pill" (<a href="1/STS062Essay2.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>"The Cocaine Sentencing Disparity" (<a href="1/cocaine.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>"Is Taking Ritalin Cheating?" (<a href="1/sts062finalpaper.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>"Beavers and Prozac&reg;: Antidepressants at MIT" (<a href="1/analucia_berry_sts062J.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>"Speed Culture in the Digital Generation" (<a href="1/speed.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
