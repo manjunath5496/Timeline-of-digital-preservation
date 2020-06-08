@@ -7,7 +7,7 @@
 <li><a href="#course6">Science Communication: A Practical Guide</a></li>
 <li><a href="#course7">The History of Computing</a></li>
 <li><a href="#course8">Technology and Nature in American History</a></li>
-<li><a href="#course9">The Environment of the Earth's Surface</a></li>
+<li><a href="#course9">Drugs, Politics, and Culture</a></li>
 <li><a href="#course10">Introduction to Fluid Motions, Sediment Transport, and Current-Generated Sedimentary Structures </a></li>
 <li><a href="#course11">Basics of Impact Cratering & Geological, Geophysical, Geochemical, Environmental Studies of Some Impact Craters of the Earth</a></li>
 <li><a href="#course12">Radon Research in Multidisciplines: A Review</a></li>
@@ -772,3 +772,63 @@
 <p>Paper 2: Comparative analytical essay (<a href="1/paper2.pdf">PDF</a>)<br />Sample analytical paragraph (<a href="1/sample_analytica.pdf">PDF</a>)</p>
 <p>Final paper: Original historical research (<a href="1/paper_final.pdf">PDF</a>)<br />Exemplary final paper: "Effects of Pollution in the Hudson River on Commerce" by John Hawkinson (<a href="1/jhawk_hudson.pdf">PDF</a>)&nbsp;</p>
 </br>
+<h2 id="course9">Drugs, Politics, and Culture</h2>
+<table class="tablewidth75" style="height: 483px;" summary="See table caption for summary." width="271">
+<thead>
+<tr>
+<th style="width: 261px;" scope="col">TOPICS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td style="width: 261px;">Introduction</td>
+</tr>
+<tr class="alt-row">
+<td style="width: 261px;">Some Preliminary Ideas</td>
+</tr>
+<tr class="row">
+<td style="width: 261px;">Alcohol in the U.S. (<a href="1/alcohol_us.pdf">PDF</a>)<br /><br />Movie:&nbsp;<em>Reefer Madness</em></td>
+</tr>
+<tr class="alt-row">
+<td style="width: 261px;">Alcohol Across Cultures (<a href="1/alcohol_cultures.pdf">PDF</a>)<br /><br />Guest Speaker: Alcoholics Anonymous</td>
+</tr>
+<tr class="row">
+<td style="width: 261px;">"Primitive" Drugs (<a href="1/peyote_lecture.pdf">PDF</a>)<br /><br />Documentary:&nbsp;<em>The Peyote Road</em></td>
+</tr>
+<tr class="alt-row">
+<td style="width: 261px;">Drugs and American Counterculture (<a href="1/lsd_lecture.pdf">PDF</a>)<br /><br />Movie:&nbsp;<em>Timothy Leary is Dead</em></td>
+</tr>
+<tr class="row">
+<td style="width: 261px;">Cocaine, Latin America and Globalization (<a href="1/cocaine_lecture.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td style="width: 261px;">Cocaine Consumption</td>
+</tr>
+<tr class="row">
+<td style="width: 261px;">Quiz 1</td>
+</tr>
+<tr class="alt-row">
+<td style="width: 261px;">Crack Dealers<br /><br />Guest Speakers</td>
+</tr>
+<tr class="row">
+<td style="width: 261px;">The War on Drugs (<a href="1/war_on_drugs.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td style="width: 261px;">The War on Drugs (cont.)</td>
+</tr>
+<tr class="row">
+<td style="width: 261px;">Modern Pharmaceuticals: Sex (<a href="1/proza_pil_viagra.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td style="width: 261px;">Quiz 2</td>
+</tr>
+<tr class="row">
+<td style="width: 261px;">Modern Pharmaceuticals: Prozac&reg; (<a href="1/proza_pil_viagra.pdf">PDF</a>)<br /><br />Documentary:&nbsp;<em>Happy Valley</em></td>
+</tr>
+<tr class="white-row">
+<td style="width: 261px;">Big Pharma (<a href="1/pharma_lecture.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
+</br>
+
