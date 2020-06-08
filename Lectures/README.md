@@ -16,7 +16,7 @@
 <li><a href="#course15">Engineering Apollo: The Moon Project as a Complex System</a></li> 
  <li><a href="#course16">Cultural History of Technology</a></li>  
    <li><a href="#course17">Social and Political Implications of Technology</a></li> 
-  <li><a href="#course18">Structure of Earth Materials</a></li> 
+  <li><a href="#course18">Technology and the Literary Imagination</a></li> 
 
  
  
@@ -1222,6 +1222,69 @@
 
 </br>
 
+<h2 id="course18">Technology and the Literary Imagination</h2>
 
-
-
+<table summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">TOPICS</th>
+<th scope="col">STUDENT PAPERS</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Technology in America today: Don DeLillo's&nbsp;<em>White Noise</em></td>
+<td>
+<p>Cardoso, Daniel. "Modern superstitions." (<a href="dcardoso_wk2.pdf">PDF</a>)</p>
+<p>Crystal, Lisa. "Technology and Faith in Don DeLillo&rsquo;s&nbsp;<em>White Noise</em>." (<a href="crystal_wk2.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>The enlightenment: Thomas Jefferson's&nbsp;<em>Notes on the State of Virginia</em></td>
+<td>Cardoso, Daniel. "The politics of naturalism." (<a href="dcardoso_wk3.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Industrialization: a Trans-Atlantic debate</td>
+<td>Cardoso, Daniel. "Perfect slaves." (<a href="dcardoso_wk4.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Technological dynamism</td>
+<td>Cardoso, Daniel. "A new variety of mind." (<a href="dcardoso_wk5.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>An epic of technological fatality (I): Herman Melville's&nbsp;<em>Moby-Dick</em>, chapters 1-40</td>
+<td>Cardoso, Daniel. "A new kind of science (of whales)." (<a href="dcardoso_wk6.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>An epic of technological fatality (II): Herman Melville's&nbsp;<em>Moby-Dick</em>, chapters 41-96</td>
+<td>Cardoso, Daniel. "Science as fiction." (<a href="dcardoso_wk7.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>An epic of technological fatality (III): Herman Melville's&nbsp;<em>Moby-Dick</em>, overview</td>
+<td>Cardoso, Daniel. "Ishmael's empty ship." (<a href="dcardoso_wk8.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>The lost America: Sarah Orne Jewett's&nbsp;<em>The Country of the Pointed Firs</em></td>
+<td>Cardoso, Daniel. "Fog-shaped men." (<a href="dcardoso_wk9.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td>Ecological Crisis I: John Hersey's&nbsp;<em>Hiroshima</em></td>
+<td>
+<p>Cardoso, Daniel. "An unknown force." (<a href="dcardoso_wk10.pdf">PDF</a>)</p>
+<p>Crystal, Lisa. "John Hersey&rsquo;s&nbsp;<em>Hiroshima</em>: Reactions to a Technological Novelty." (<a href="crystal_wk10.pdf">PDF</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Ecological Crisis II: Bill McKibben's&nbsp;<em>The End of Nature</em></td>
+<td>
+<p>Cardoso, Daniel. "Rembrandts and streetlamps." (<a href="dcardoso_wk11.pdf">PDF</a>)</p>
+<p>Crystal, Lisa. "Locating the Boundaries: Humans, Nature, and God in Bill McKibben&rsquo;s&nbsp;<em>The End of Nature</em>." (<a href="crystal_wk11.pdf">PDF</a>)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+<p>Cardoso, Daniel. "Design and the Automated Utopia." (<a href="dcardoso_final.pdf">PDF</a>)</p>
+<p>Crystal, Lisa. "Technology, Nature, and the Loss of Meaning." (<a href="crystal_final.pdf">PDF</a>)</p>
+<p>McCammack, Brian. "Reconciling Continuity and Rupture: Rhetorical Strategy in Seeing Escalators as Tipping Points in the Writings of Thomas Carlyle, Henry Adams, and Bill McKibben." (<a href="mccammack_final.pdf">PDF</a>)</p>
+</br>
