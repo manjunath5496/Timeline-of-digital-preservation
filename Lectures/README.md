@@ -1,6 +1,6 @@
 <ul>
 <li><a href="#course1">Technology in American History</a></li>
-<li><a href="#course2">Physics and Chemistry of the Terrestrial Planets</a></li>
+<li><a href="#course2">The Rise of Modern Science</a></li>
 <li><a href="#course3">Applications of Continuum Mechanics to Earth, Atmospheric, and Planetary Sciences</a></li>
 <li><a href="#course4">Geobiology</a></li>
 <li><a href="#course5">Theoretical Environmental Analysis</a></li>
@@ -185,11 +185,188 @@
 </tbody>
 </table>
    </br>
+<h2 id="course2">The Rise of Modern Science</h2>
 
+<table class="tablewidth75" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">INSTRUCTOR</th>
+<th scope="col">TOPICS</th>
+<th scope="col">FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>&nbsp;</td>
+<td>Introduction</td>
+<td>(<a href="MITSTS_003F10_lec01.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3"><strong>1. Matter</strong></td>
+</tr>
+<tr class="row">
+<td>Kaiser</td>
+<td>The stuff of matter in the ancient world</td>
+<td><span class="nobr">(<a href="MITSTS_003F10_lec02.pdf">PDF - 3.0MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Kaiser</td>
+<td>Alchemy and experiment in the Renaissance</td>
+<td><span class="nobr">(<a href="MITSTS_003F10_lec03.pdf">PDF - 3.4MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Kaiser</td>
+<td>Textbooks and chemical order, from Lavoisier to Mendeleev</td>
+<td><span class="nobr">(<a href="MITSTS_003F10_lec04.pdf">PDF - 3.1MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Kaiser</td>
+<td>Quantum alchemy?</td>
+<td><span class="nobr">(<a href="MITSTS_003F10_lec05.pdf">PDF - 2.1MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td colspan="3"><strong>2. Nature</strong></td>
+</tr>
+<tr class="alt-row">
+<td>&nbsp;Jones</td>
+<td>The nature of nature in ancient and medieval worlds</td>
+<td>
+<p><span class="nobr">(<a href="MITSTS_003F10_lec06.pdf">PDF - 12.4MB</a>)</span></p>
+</td>
+</tr>
+<tr class="row">
+<td>Jones</td>
+<td>Exploring, collecting, classifying</td>
+<td>
+<p><span class="nobr">(<a href="MITSTS_003F10_lec07.pdf">PDF - 6.3MB</a>)</span></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Jones</td>
+<td>Evolution and the origin of species</td>
+<td>
+<p><span class="nobr">(<a href="MITSTS_003F10_lec08.pdf">PDF - 8.2MB</a>)</span></p>
+</td>
+</tr>
+<tr class="row">
+<td>Jones</td>
+<td>Ecology and environment</td>
+<td>
+<p><span class="nobr">(<a href="MITSTS_003F10_lec09.pdf">PDF - 3.9MB</a>)</span></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td colspan="3"><strong>3. Motion</strong></td>
+</tr>
+<tr class="row">
+<td>Kaiser</td>
+<td>From "natural motions" to "laws of motion"</td>
+<td><span class="nobr">(<a href="MITSTS_003F10_lec10.pdf">PDF - 1.8MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Kaiser</td>
+<td>Beer brewing, steam engines, and the fate of the cosmos</td>
+<td><span class="nobr">(<a href="MITSTS_003F10_lec11.pdf">PDF - 2.9MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Kaiser</td>
+<td>Space, time, and spacetime</td>
+<td><span class="nobr">(<a href="MITSTS_003F10_lec12.pdf">PDF - 2.5MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td colspan="3"><strong>4. Body</strong></td>
+</tr>
+<tr class="row">
+<td>Jones</td>
+<td>Blood, guts and images</td>
+<td>
+<p><span class="nobr">(<a href="MITSTS_003F10_lec13.pdf">PDF - 14.9MB</a>)</span></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Jones</td>
+<td>Cell theory</td>
+<td>
+<p><span class="nobr">(<a href="MITSTS_003F10_lec14.pdf">PDF - 5.2MB</a>)</span></p>
+</td>
+</tr>
+<tr class="row">
+<td>Jones</td>
+<td>Physiology and experiment</td>
+<td>
+<p><span class="nobr">(<a href="MITSTS_003F10_lec15.pdf">PDF - 6.0MB</a>)</span></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Jones</td>
+<td>Models of inheritance and genetics</td>
+<td>
+<p><span class="nobr">(<a href="MITSTS_003F10_lec16.pdf">PDF - 4.0MB</a>)</span></p>
+</td>
+</tr>
+<tr class="row">
+<td colspan="3"><strong>5. Heavens</strong></td>
+</tr>
+<tr class="alt-row">
+<td>Kaiser</td>
+<td>To save the phenomena</td>
+<td><span class="nobr">(<a href="MITSTS_003F10_lec17.pdf">PDF - 1.7MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Kaiser</td>
+<td>Copernicus: Round and round we go</td>
+<td><span class="nobr">(<a href="MITSTS_003F10_lec18.pdf">PDF - 2.9MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td>Kaiser</td>
+<td>The Newtonian cosmos</td>
+<td><span class="nobr">(<a href="MITSTS_003F10_lec19.pdf">PDF - 2.3MB</a>)</span></td>
+</tr>
+<tr class="row">
+<td>Kaiser</td>
+<td>Einstein, gravity, and politics</td>
+<td><span class="nobr">(<a href="MITSTS_003F10_lec20.pdf">PDF - 2.1MB</a>)</span></td>
+</tr>
+<tr class="alt-row">
+<td colspan="3"><strong>6. Mind</strong></td>
+</tr>
+<tr class="row">
+<td>Jones</td>
+<td>Mind-body</td>
+<td>
+<p><span class="nobr">(<a href="MITSTS_003F10_lec21.pdf">PDF - 9.0MB</a>)</span></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Jones</td>
+<td>Madness</td>
+<td>
+<p><span class="nobr">(<a href="MITSTS_003F10_lec22.pdf">PDF - 8.4MB</a>)</span></p>
+</td>
+</tr>
+<tr class="row">
+<td>Jones</td>
+<td>Brains in the lab: Experimental psychology</td>
+<td>
+<p><span class="nobr">(<a href="MITSTS_003F10_lec23.pdf">PDF - 3.9MB</a>)</span></p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Jones</td>
+<td>Man-machine</td>
+<td>
+<p><span class="nobr">(<a href="MITSTS_003F10_lec24.pdf">PDF - 7.4MB</a>)</span></p>
+</td>
+</tr>
+<tr class="row">
+<td>&nbsp;Kaiser</td>
+<td>Conclusion</td>
+<td>(<a href="MITSTS_003F10_lec26.pdf">PDF</a>)</td>
+</tr>
+</tbody>
+</table>
 
-
-
-
+</br>
 
 
 
