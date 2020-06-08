@@ -5,7 +5,7 @@
 <li><a href="#course4">Evolution and Society</a></li>
 <li><a href="#course5">American Science: Ethical Conflicts and Political Choices</a></li>
 <li><a href="#course6">Science Communication: A Practical Guide</a></li>
-<li><a href="#course7">Seminar in Environmental Science</a></li>
+<li><a href="#course7">The History of Computing</a></li>
 <li><a href="#course8">Modeling Environmental Complexity</a></li>
 <li><a href="#course9">The Environment of the Earth's Surface</a></li>
 <li><a href="#course10">Introduction to Fluid Motions, Sediment Transport, and Current-Generated Sedimentary Structures </a></li>
@@ -642,4 +642,88 @@
 </tr>
 </tbody>
 </table>
+</br>
+<h2 id="course7">The History of Computing</h2>
+
+<table class="tablewidth100" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+<th id="col3" scope="col">WEEKLY QUESTIONS</th>
+<th id="col4" scope="col">STUDENT SAMPLES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Issues in the History of Computing</td>
+<td headers="col3">(<a href="1/week2.pdf">PDF</a>)</td>
+<td headers="col4">Daniel Roy (<a href="1/2dan.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Computers in Nuclear Physics: ENIAC and the Hydrogen Bomb</td>
+<td headers="col3">(<a href="1/week3.pdf">PDF</a>)</td>
+<td headers="col4">Anthony Grue (<a href="1/3anthony.pdf">PDF</a>)<br />Steven Stern (<a href="1/3steve.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Computers in Meteorology: Simulating the World</td>
+<td headers="col3">(<a href="1/week4.pdf">PDF</a>)</td>
+<td headers="col4">Jason Ruchelsman (<a href="1/4jason.pdf">PDF</a>)&nbsp;<br />Katherine A. Franco (<a href="1/4kathy.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Computers in Mathematics: The Logic Theorist and the Automation of Proof</td>
+<td headers="col3">(<a href="1/week5.pdf">PDF</a>)</td>
+<td headers="col4">Joshua Tauber (<a href="1/5josh1.pdf">PDF</a>)<br />Patrick&nbsp;Griffin (<a href="1/5patrick.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Computers in Cognitive Psychology: GPS and Psychological Theory</td>
+<td headers="col3">(<a href="1/week6.pdf">PDF</a>)</td>
+<td headers="col4">Aaron Bell (<a href="1/6aaron1.pdf">PDF</a>)&nbsp;<br />Steven Stern (<a href="1/6steve.pdf">PDF</a>)&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="tablewidth100" summary="Course Table Listing">
+<thead>
+<tr class="tableheader">
+<th id="col2" scope="col">TOPICS</th>
+<th id="col3" scope="col">WEEKLY QUESTIONS</th>
+<th id="col4" scope="col">STUDENT SAMPLES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td headers="col2">Computers in Biochemistry: DENDRAL and Knowledge Engineering</td>
+<td headers="col3">(<a href="1/week7.pdf">PDF</a>)</td>
+<td headers="col4">Aaron Bell (<a href="1/7aaron.pdf">PDF</a>)&nbsp;<br />Jason Ruchelsman (<a href="1/7jason.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Computers in Aerospace: The Apollo Guidance Computer</td>
+<td headers="col3">(<a href="1/week8.pdf">PDF</a>)</td>
+<td headers="col4">Anthony Grue (<a href="1/8anthony.pdf">PDF</a>)<br />Patrick&nbsp;Griffin (<a href="1/8patrick.pdf">PDF</a>)</td>
+</tr>
+<tr class="row">
+<td headers="col2">Computers in Medicine: MYCIN and the Formalization of Expertise</td>
+<td headers="col3">(<a href="1/week10.pdf">PDF</a>)</td>
+<td headers="col4">Aaron Bell (<a href="1/10aaron.pdf">PDF</a>)&nbsp;<br />Daniel Roy (<a href="1/10dan.pdf">PDF</a>)</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Supercomputing at Home: A Social Experiment in Distributed Computing</td>
+<td headers="col3">(<a href="1/week11.pdf">PDF</a>)</td>
+<td headers="col4">Antoinne Machal-Cajigas (<a href="1/11antoinne.pdf">PDF</a>)<br />Patrick&nbsp;Griffin (<a href="1/11patrick.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="row">
+<td headers="col2">Computers in Linguistics: Lost in Machine Translation</td>
+<td headers="col3">(<a href="1/week12.pdf">PDF</a>)</td>
+<td headers="col4">Aaron Bell (<a href="1/12aaron.pdf">PDF</a>)&nbsp;<br />Steven Stern (<a href="1/12steve.pdf">PDF</a>)&nbsp;</td>
+</tr>
+<tr class="alt-row">
+<td headers="col2">Computers in the Humanities: Hype, Text, and Hypertext</td>
+<td headers="col3">(<a href="1/week13.pdf">PDF</a>)</td>
+<td headers="col4">Aaron Bell (<a href="1/13aaron.pdf">PDF</a>)&nbsp;<br />Patrick Griffin (<a href="1/13patrick.pdf">PDF</a>)&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</br>
+<h3 class="subsubhead">Sample Final Paper</h3>
+<p>Anthony Ronald Grue (<a href="1/anthony_final.pdf">PDF</a>)</p>
 </br>
