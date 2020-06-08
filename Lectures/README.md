@@ -1,1 +1,71 @@
-
+<ul>
+<li><a href="#course1">Introduction to Geology</a></li>
+<li><a href="#course2">Physics and Chemistry of the Terrestrial Planets</a></li>
+<li><a href="#course3">Applications of Continuum Mechanics to Earth, Atmospheric, and Planetary Sciences</a></li>
+<li><a href="#course4">Geobiology</a></li>
+<li><a href="#course5">Theoretical Environmental Analysis</a></li>
+<li><a href="#course6">Computational Methods of Scientific Programming</a></li>
+<li><a href="#course7">Seminar in Environmental Science</a></li>
+<li><a href="#course8">Modeling Environmental Complexity</a></li>
+<li><a href="#course9">The Environment of the Earth's Surface</a></li>
+<li><a href="#course10">Introduction to Fluid Motions, Sediment Transport, and Current-Generated Sedimentary Structures </a></li>
+<li><a href="#course11">Basics of Impact Cratering & Geological, Geophysical, Geochemical, Environmental Studies of Some Impact Craters of the Earth</a></li>
+<li><a href="#course12">Radon Research in Multidisciplines: A Review</a></li>
+<li><a href="#course13">Medical Geology/Geochemistry: An Exposure</a></li>
+ <li><a href="#course14">Trace Element Analysis of Geological, Biological & Environmental Materials by Neutron Activation Analysis: An Exposure</a></li>
+<li><a href="#course15">Chemical Investigations of Boston Harbor</a></li> 
+ <li><a href="#course16">Science and Policy of Natural Hazards</a></li>  
+   <li><a href="#course17">Strange Bedfellows: Science and Environmental Policy</a></li> 
+  <li><a href="#course18">Structure of Earth Materials</a></li> 
+ <li><a href="#course19">Petrology</a></li>  
+   <li><a href="#course20">Sedimentary Geology</a></li> 
+  <li><a href="#course21">Structural Geology</a></li> 
+ <li><a href="#course22">Analytical Techniques for Studying Environmental and Geologic Samples</a></li>  
+   <li><a href="#course23">Electron Microprobe Analysis</a></li> 
+  <li><a href="#course24">Molecular Biogeochemistry</a></li> 
+ <li><a href="#course25">Surface Processes and Landscape Evolution</a></li>  
+   <li><a href="#course26">Essentials of Geophysics</a></li> 
+   <li><a href="#course27">Modern Navigation</a></li> 
+  <li><a href="#course28">Climate Physics and Chemistry</a></li> 
+ <li><a href="#course29">Atmospheric Physics and Chemistry</a></li>  
+   <li><a href="#course30">Atmospheric and Ocean Circulations</a></li> 
+ <li><a href="#course31">Experimental Atmospheric Chemistry</a></li>  
+   <li><a href="#course32">Global Warming Science</a></li> 
+<li><a href="#course33">Hands-On Astronomy: Observing Stars and Planets</a></li>  
+   <li><a href="#course34">Extrasolar Planets: Physics and Detection Techniques</a></li> 
+   <li><a href="#course35">Oral Communication in the Earth, Atmospheric, and Planetary Sciences</a></li> 
+  <li><a href="#course36">Crosby Lectures in Geology: History of Africa</a></li> 
+ <li><a href="#course37">Trace-Element Geochemistry</a></li>  
+   <li><a href="#course38">Thermodynamics for Geoscientists</a></li> 
+ <li><a href="#course39">Non-conventional Light Stable Isotope Geochemistry</a></li>  
+   <li><a href="#course40">Introduction to Seismology</a></li> 
+  <li><a href="#course41">Geodynamics</a></li> 
+ <li><a href="#course42">Mechanical Properties of Rocks</a></li>  
+   <li><a href="#course43">Principles of the Global Positioning System</a></li> 
+ <li><a href="#course44">Seminar in Geophysics: Thermal and Chemical Evolution of the Earth</a></li>  
+   <li><a href="#course45">Structure and Dynamics of the CMB Region</a></li> 
+   <li><a href="#course46">Seminar in Geophysics: Mantle Convection</a></li> 
+  <li><a href="#course47">Modeling Environmental Complexity</a></li> 
+ <li><a href="#course48">Paleoceanography</a></li>  
+   <li><a href="#course49">Marine Chemistry</a></li> 
+ <li><a href="#course50">Fluid Dynamics of the Atmosphere and Ocean</a></li>  
+   <li><a href="#course51">Wave Motion in the Ocean and the Atmosphere</a></li> 
+   <li><a href="#course52">Quasi-Balanced Circulations in Oceans and Atmospheres</a></li> 
+ <li><a href="#course53">Atmospheric Chemistry</a></li>  
+   <li><a href="#course54">Introduction to Observational Physical Oceanography</a></li> 
+    <li><a href="#course55">Dynamics of the Atmosphere</a></li> 
+   <li><a href="#course56">Tropical Meteorology</a></li> 
+ <li><a href="#course57">General Circulation of the Earth's Atmosphere</a></li>  
+   <li><a href="#course58">Atmospheric Radiation</a></li> 
+  <li><a href="#course59">Turbulence in the Ocean and Atmosphere</a></li>  
+   <li><a href="#course60">Climate Physics and Chemistry</a></li> 
+  <li><a href="#course61">GPS: Where Are You?</a></li>  
+   <li><a href="#course62">Inference from Data and Models</a></li> 
+  <li><a href="#course63">Quantifying Uncertainty</a></li>  
+   <li><a href="#course64">Atmospheric and Oceanic Modeling</a></li> 
+ 
+ 
+ 
+</ul>
+<p>&nbsp;</p>
+<h2 id="course1">Introduction to Geology</h2>
